@@ -24,7 +24,7 @@ A 2D side-scrolling platformer built solo in an **8-hour game jam** with **Unity
 
 ## Art
 
-I drew the cat and its idle and walk animations myself in Piskel.
+I drew both cats (the black cat's idle and walk animations, and a calico) and the plate myself in Piskel. The furniture and house tiles come from a free asset pack.
 
 ## Running it
 
