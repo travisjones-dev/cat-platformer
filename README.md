@@ -1,8 +1,6 @@
 # Cat Platformer
 
-<!-- Uncomment once demo.gif is added (ScreenToGif, <5 MB, 15 fps):
 ![Gameplay](demo.gif)
--->
 
 A 2D side-scrolling platformer built solo in an **8-hour game jam** with **Unity 6 and C#**. You play a cat doing what cats do: knocking things over. Every three objects you send flying unlocks the door to the next room.
 
